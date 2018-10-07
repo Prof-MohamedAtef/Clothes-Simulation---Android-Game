@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Simulation Game</string>
+
+    <!-- main ads-->
+    <string name="_app_add_mob">ca-app-pub-1679492388528633~4391323034</string>
+    <string name="add_mob_unit">ca-app-pub-1679492388528633/2120382912</string>
+
+    <!--test ads-->
+
+    <string name="ad_app_id_test">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="video_ad_unit_id_video_test">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>
